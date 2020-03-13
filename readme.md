@@ -2,7 +2,7 @@
 
 ## Request for Data
 
-To be able to provide more transparent information and enable others to build creative solutions and helpers. We need volonteers to keep-up and to archive data about the covid-19 pandemic.
+To be able to provide more transparent information and enable others to build creative solutions and helpers. We need volunteers to keep-up and to archive data about the covid-19 cases in Tunisia.
 
 * Number of confirmed cases
 
