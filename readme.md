@@ -35,8 +35,8 @@ Datasets are in form of csv files.
 
 |Filename   |Dataset   |Format   |
 |---|---|---|
-|Dataset1   |Number of confirmed cases   | `format: source, date(MM/DD/YY), hour(HH:MM), NUMBER_OF_CASES `   |
-|Dataset2   |Details of confirmed cases   |`format: source, date(MM/DD/YY), hour(HH:MM), NUMBER_OF_CASES `   |
-|Dataset3   |Confirmed patient attributes   |`format: source, date(MM/DD/YY), hour(HH:MM), REGION, AGE, GENDER, NATIONALITY, TRAVELED, MINOR_SYMPTOMS, SEVERE_SYMPTOMS`   |
-|Dataset4   |Number of tests conducted   |`format: source, date(MM/DD/YY), hour(HH:MM), TESTS, REGION, HOSPITAL`   |
-|Dataset5   |Number of COVID-19 reports   |`format: source, date(MM/DD/YY), hour(HH:MM), REPORTS, REGION, HOSPITAL, PHONE`   |
+|Dataset1   |Number of confirmed cases   | `format: SOURCE, DATE(MM/DD/YY), HOUR(HH:MM), NUMBER_OF_CASES `   |
+|Dataset2   |Details of confirmed cases   |`format: SOURCE, DATE(MM/DD/YY), HOUR(HH:MM), TESTED, CONFIRMED, HOSPITALIZED, DEATHS, RECOVERED `   |
+|Dataset3   |Confirmed patient attributes   |`format: SOURCE, DATE(MM/DD/YY), HOUR(HH:MM), REGION, AGE, GENDER, NATIONALITY, TRAVELED, MINOR_SYMPTOMS, SEVERE_SYMPTOMS`   |
+|Dataset4   |Number of tests conducted   |`format: SOURCE, DATE(MM/DD/YY), HOUR(HH:MM), TESTS, REGION, HOSPITAL`   |
+|Dataset5   |Number of COVID-19 reports   |`format: SOURCE, DATE(MM/DD/YY), HOUR(HH:MM), REPORTS, REGION, HOSPITAL, PHONE`   |
